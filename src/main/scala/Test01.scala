@@ -1,7 +1,7 @@
-class Test {
+class Test01 {
 
 }
-object Test{
+object Test01{
   def main(args: Array[String]): Unit = {
     println("Start")
     "Hello world".split(" ").foreach(println)
